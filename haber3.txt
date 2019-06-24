@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proje Baþvuru Çaðrýsý Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP) 2018-2019/2 | TED Üniversitesi
+
+
+
+
+
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+
+
+
+
+
+jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"tr\/","ajaxPageState":{"theme":"adaptivetheme_subtheme","theme_token":"O-MEpziVk5g77uiKm0UFQH3hSvz3F5IamObgctZMqjc","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/drp_custom_login\/css\/drp_custom_login.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"public:\/\/css\/menu_icons.css":1,"sites\/all\/modules\/oembed\/oembed.base.css":1,"sites\/all\/modules\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/global.styles.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/yusuf.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/erdem.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/font-awesome.min.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_files\/adaptivetheme_subtheme.default.layout.css":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/css\/tedu.css":1,"sites\/default\/files\/fontyourface\/font.css":1,"https:\/\/fonts.googleapis.com\/css?family=Roboto:500,regular|Roboto+Condensed:700,regular\u0026subset=latin,latin-ext":1},"js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/drp_custom_login\/js\/drp_custom.js":1,"sites\/all\/modules\/webform_steps\/webform_steps.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/scripts\/ys.js":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/js\/bootstrap.min.js":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/js\/modernizr.js":1,"sites\/all\/themes\/adaptivetheme\/at_subtheme\/js\/mmenu.min.all.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":".pdf","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"urlIsAjaxTrusted":{"https:\/\/www.tedu.edu.tr\/tr\/search\/node":true,"\/tr\/main\/gundem\/haberler\/proje-basvuru-cagrisi-bilimsel-arastirma-projeleri-destegi-tedu-bap-2018-2019\/2":true},"better_exposed_filters":{"views":{"group_logo":{"displays":{"block":{"filters":[]}}}}},"ogContext":{"groupType":"node","gid":"148"},"adaptivetheme":{"adaptivetheme_subtheme":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:960px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PQF3CJT');
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-62922074-1', 'auto');
+  ga('send', 'pageview');
+ 
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1023253554421798');
+fbq('track', "PageView");
+
+
+
+
+
+
+
+Ana içeriðe atla
+
+
+
+ 
+
+ 
+
+
+TEDÜ Hakkýmýzda TED TEDÜ Misyon ve Vizyon Stratejik Plan Sayýlarla TEDÜ Kalite Güvence Sistemi Özgürlük Politikasý Etik Kurallar Yönetmelik ve Yönergeler Kiþisel Verilerin Korunmasý Bilgi Güvenliði Politikasý Üniversite YönetimiTEDYÜV Mütevelli Heyeti MH Baþkanýn Mesajý Rektörlük Rektör’ün Mesajý Genel Sekreterlik Ýdari BirimlerOrganizasyon Þemasý Ýdari Personel Ýnsan Kaynaklarý Akademik Ýþ Baþvurularý Ýdari Ýþ Baþvurularý Akademik Yükseltme ve Atama Esaslarý AKADEMÝK Fakülteler Eðitim Fakültesi Fen-Edebiyat Fakültesi Ýktisadi ve Ýdari Bilimler Fakültesi Mimarlýk Fakültesi Mühendislik Fakültesi Enstitüler Lisansüstü Programlar Enstitüsü  Ýngilizce Dil Okulu Ýngilizce Dil Okulu (ELS) ELS Merkezler Akademik Bilgiler Akademik Takvim Akademik Katalog Akademik Kurullar Açýlan Dersler Akademik Kadro Öðrenci Ýþleri Uluslararasý Programlar Ofisi Burslar Moodle ARAÞTIRMALAR Akademik Özgürlük Politikasý TEDÜ Araþtýrma Destekleri Yayýnlar Merkezler/KurullarÝnsan Araþtýrmalarý Etik Kurulu (ÝAEK) Ticaret Araþtýrmalarý Merkezi(TEDÜ TAM) Sosyal Ýnovasyon Merkezi KAMPÜSTE YAÞAM 360 Sanal Tur Etkinlik Takvimi HizmetlerKütüphane Saðlýk Merkezi Yurtlar Kültür Sanat ve SporÖðrenci Konseyi Öðrenci Topluluklarý Spor Merkezi MerkezlerKariyer Merkezi Öðrenci Danýþma Merkezi Öðrenme-Öðretme Merkezi Sürekli Eðitim Merkezi Engelsiz TEDÜ MEDYADuyurular Etkinlikler Haberler ÝLETÝÞÝM 
+
+
+Arama 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+TrEn 
+
+
+
+
+
+
+
+
+
+
+			      Proje Baþvuru Çaðrýsý Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP) 2018-2019/2			   
+
+TrEn
+ 
+BuradasýnýzAna Sayfa > Proje Baþvuru Çaðrýsý Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP) 2018-2019/2
+ 
+
+
+
+
+
+
+
+
+ Main  
+
+
+
+
+
+
+
+BuradasýnýzAna Sayfa > Proje Baþvuru Çaðrýsý Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP) 2018-2019/2
+
+
+
+
+
+
+
+
+
+
+            	      Proje Baþvuru Çaðrýsý Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP) 2018-2019/2            	   
+
+ 
+
+
+
+
+
+
+ 
+Son Baþvuru Tarihi: 26 Nisan 2019
+TED Üniversitesi Bilimsel Araþtýrma Projeleri Desteði (TEDÜ-BAP), yenilikçi araþtýrmalarý desteklemek için saðlanan bir Çekirdek Araþtýrma Fonudur.
+Bilimsel mükemmellik ve yaygýn etki için proje önerilerinin;
+TEDÜ'nün kurumsal stratejisini, ilkelerini ve araþtýrma önceliklerini desteklemesi
+Bilime ve topluma katký saðlamasý
+Özgün ve yenilikçi olmasý
+Var olan bilgi birikimini ilerletme ve yeni fikri hak üretme potansiyeline sahip olmasý beklenmektedir.
+ 
+Uygulamanýn kalitesi ve etkinliði için proje önerilerinin;
+Faaliyetlerini en uygun koþullarda geliþtirmek için yeterli kaynak, yetkinlik ve kapasiteye sahip olmasý
+Açýk, gerçekçi ve ulaþýlabilir proje hedeflerine sahip olmasý
+Yönetim ve çýktýlarýn net bir þekilde tanýmlý olmasý
+Ýþ-zaman planýnýn gerçekçi olmasý
+Bütçenin proje faaliyetleriyle uyumlu olmasý ve bütçe kalemlerinin detaylý gerekçelendirilmesi beklenmektedir.
+ 
+Fon Bilgisi:
+Her proje için azami bütçe tutarý 25.000 TL'dir. 
+Uygunluk Kriterleri: 
+TEDÜ-BAP; TEDÜ tam zamanlý öðretim üyeleri tarafýndan yapýlan baþvurularý kabul etmektedir. TEDÜ-BAP projesi yürütmekte olan Öðretim Üyeleri projelerini tamamladýktan sonra yeni baþvuruda bulunabilirler. Bir sonraki TEDÜ-BAP çaðrýsýna baþvuru yapýlabilmesi için yürütülen TEDÜ-BAP projesinin final raporunun zamanýnda sunulmasý gerekmektedir. 
+Baþvuru:
+Baþvuru formuna ulaþmak için myTEDUPortal'dan “Research Endorsements” kýsmýna girdikten sonra proje türü olarak “Institutional Research Fund” seçilmelidir.
+Baþvurular 26 Nisan 2019 Cuma gününe kadar tamamlanmalý ve “submit” düðmesine basýlarak sisteme yüklenmelidir.
+Sisteme Yüklenmesi Gereken Belgeler
+Literatür Taramasý (en fazla 5 sayfa)
+Proforma Faturalar
+Niyet Mektubu (diðer kurumlarla iþbirliði halinde gerekli)
+Etik Kurul Onayý ve / veya Diðer Gerekli Yasal / Kurumsal Ýzinler
+Zaman Çizelgesi (Proje Takvimi)
+Bütçe Planý (çaðrý duyurusu e-postasýnda belirtilen)
+Risk Analizi (Teknik, Operasyonel ve Finansal Risklerin azaltýlmasýna yönelik eylemler ve B planlarý önerilmelidir.)
+ 
+Öðrenci Destek Ücretleri ve Çalýþabilme Süreleri:
+TEDU-BAP yönergesinde belirtildiði üzere, bu bütçe kalemi toplam bütçenin yarýsýndan fazla olamaz.
+Sosyal Güvenliðe Sahip Lisans Öðrencisi à 11,5 TL/saat – en fazla ayda 20 saat
+Sosyal Güvencesi Olmayan Lisans Öðrencisi à 11,5 TL/saat – en fazla ayda 40 saat 
+Sosyal Güvenliðe Sahip Yüksek Lisans Öðrencisi à 15 TL/saat – en fazla ayda 20 saat
+Sosyal Güvencesiz Yüksek Lisans Öðrencisi à 15 TL/saat – en fazla ayda 40 saat
+ 
+Araþtýrmacýlar TEDÜ-BAP'a baþvuru yaparak, baþvuruda önerilen projenin bütçe kalemleri için çifte fonlama[1] talebinde bulunmadýklarýný taahhüt etmektedirler.
+TEDU-BAP hakkýnda daha fazla bilgi edinmek için 1 Kasým 2018’de revize edilen TEDÜ-BAP Yönergesine bakabilirsiniz. Daha fazla bilgi ve dil desteði için, Araþtýrma, Teknoloji ve Ýnovasyon Direktörlüðü ile iletiþime geçebilirsiniz.
+
+[1] Bir faaliyet için öngörülen ayný giderin ayný anda iki farklý kurum/kuruluþ tarafýndan finanse edilmesi
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Ýlgili Baðlantýlar
+
+TED Hakkýnda 
+Mütevelli Heyeti Baþkanýnýn Mesajý 
+Aday Öðrenciler
+
+
+
+Ýlgili Baðlantýlar
+
+
+
+TED Hakkýnda 
+
+
+Mütevelli Heyeti Baþkanýnýn Mesajý 
+
+
+Aday Öðrenciler
+
+
+ 
+
+Previous
+
+
+
+Next
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+TEDÜ
+Sýkça Sorulan Sorular
+Bilgi Edinme
+Gizlilik Politikasý
+Kiþisel Verilerin Korunmasý
+Sorumluluk Reddi
+Site Haritasý
+Site Yöneticisi Ýletiþim
+
+
+
+
+Akademik
+ Eðitim Fakültesi 
+ Fen Edebiyat Fakültesi 
+ Ýktisadi ve Ýdari Bilimler Fakültesi
+ Mimarlýk Fakültesi
+ Mühendislik Fakültesi
+Lisansüstü Programlar Enstitüsü
+Ýngilizce Dil Okulu
+Uluslararasý Programlar Ofisi
+Akademik Takvim
+
+
+
+
+Araþtýrmalar
+Araþtýrma Stratejisi
+Yayýnlar
+Atýflar
+Projeler
+
+
+
+
+Kampüste Yaþam
+Kampüs
+Kütüphane
+Yurtlar
+Öðrenci Konseyi
+Öðrenci Topluluklarý
+MyTEDU Portal
+RadioTEDU
+
+
+
+
+
+
+
+
+         
+
+TED Üniversitesi
+Ziya Gökalp Caddesi No:48 06420, Kolej Çankaya ANKARA
+
+
+info@tedu.edu.tr
+
+
+Tel:    (+90 312)  585 0000
+Faks: (+90 312) 418 4148
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arama 
+
+
+
+
+ 
+Aday ÖðrencilerUluslararasý ÖðrencilerÖðrencilerMyTEDU & WebMailMyTEDU PortalTEDU Mail (Personel)TEDU Mail (Öðrenci)TEDU Office 365MoodleEBYSTEDÜHakkýmýzdaTEDTEDÜMisyon ve VizyonStratejik PlanSayýlarla TEDÜKalite Güvence SistemiÖzgürlük PolitikasýEtik KurallarYönetmelik ve YönergelerKiþisel Verilerin KorunmasýBilgi Güvenliði PolitikasýÜniversite YönetimiTEDYÜVMütevelli HeyetiMH Baþkanýn MesajýRektörlükRektör’ün MesajýGenel SekreterlikÝdari BirimlerOrganizasyon ÞemasýÝdari PersonelÝnsan KaynaklarýAkademik Ýþ BaþvurularýÝdari Ýþ BaþvurularýAkademik Yükseltme ve Atama EsaslarýAKADEMÝKFakültelerEðitim FakültesiFen-Edebiyat FakültesiÝktisadi ve Ýdari Bilimler FakültesiMimarlýk FakültesiMühendislik FakültesiEnstitülerLisansüstü Programlar Enstitüsü Ýngilizce Dil OkuluÝngilizce Dil Okulu (ELS)ELS MerkezlerAkademik BilgilerAkademik TakvimAkademik KatalogAkademik KurullarAçýlan DerslerAkademik KadroÖðrenci ÝþleriUluslararasý Programlar OfisiBurslarMoodleARAÞTIRMALARAkademik Özgürlük PolitikasýTEDÜ Araþtýrma DestekleriYayýnlarMerkezler/KurullarÝnsan Araþtýrmalarý Etik Kurulu (ÝAEK)Ticaret Araþtýrmalarý Merkezi(TEDÜ TAM)Sosyal Ýnovasyon MerkeziKAMPÜSTE YAÞAM360 Sanal TurEtkinlik TakvimiHizmetlerKütüphaneSaðlýk MerkeziYurtlarKültür Sanat ve SporÖðrenci KonseyiÖðrenci TopluluklarýSpor MerkeziMerkezlerKariyer MerkeziÖðrenci Danýþma MerkeziÖðrenme-Öðretme MerkeziSürekli Eðitim MerkeziEngelsiz TEDÜMEDYADuyurularEtkinliklerHaberlerÝLETÝÞÝM 
+
+
+
+
+
+
+
+
+
+
+
+
+
